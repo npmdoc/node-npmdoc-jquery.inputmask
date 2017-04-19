@@ -1,9 +1,14 @@
-# api documentation for  [jquery.inputmask (v3.3.4)](https://github.com/RobinHerbots/jquery.inputmask)  [![npm package](https://img.shields.io/npm/v/npmdoc-jquery.inputmask.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jquery.inputmask) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jquery.inputmask.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jquery.inputmask)
+# npmdoc-jquery.inputmask
+
+#### api documentation for  [jquery.inputmask (v3.3.4)](https://github.com/RobinHerbots/jquery.inputmask)  [![npm package](https://img.shields.io/npm/v/npmdoc-jquery.inputmask.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jquery.inputmask) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jquery.inputmask.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jquery.inputmask)
+
 #### jquery.inputmask is a jquery plugin which create an input mask.
 
-[![NPM](https://nodei.co/npm/jquery.inputmask.png?downloads=true)](https://www.npmjs.com/package/jquery.inputmask)
+[![NPM](https://nodei.co/npm/jquery.inputmask.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jquery.inputmask)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-jquery.inputmask/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-jquery.inputmask_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jquery.inputmask/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-jquery.inputmask/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-jquery.inputmask/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-jquery.inputmask/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jquery.inputmask/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-jquery.inputmask/build/screenCapture.npmPackageListing.svg)
 
@@ -24,6 +29,7 @@
         "url": "https://github.com/RobinHerbots/jquery.inputmask/issues"
     },
     "dependencies": {},
+    "deprecated": "Use npm i inputmask instead",
     "description": "jquery.inputmask is a jquery plugin which create an input mask.",
     "devDependencies": {
         "browserify": "^13.0.1",
@@ -79,13 +85,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "robinherbots",
-            "email": "robin.herbots@gmail.com"
+            "name": "robinherbots"
         }
     ],
     "name": "jquery.inputmask",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/RobinHerbots/jquery.inputmask.git"
@@ -96,16 +100,6 @@
     "version": "3.3.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module jquery.inputmask](#apidoc.module.jquery.inputmask)
-
-
-
-# <a name="apidoc.module.jquery.inputmask"></a>[module jquery.inputmask](#apidoc.module.jquery.inputmask)
 
 
 
