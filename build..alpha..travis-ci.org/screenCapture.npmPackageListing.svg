@@ -1,32 +1,32 @@
 <svg height="462" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="462" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 04:13:30 +0000   931277 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 04:13:30 +0000    17929 byte  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 04:13:30 +0000     1064 byte  LICENSE.txt</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 04:13:30 +0000    33241 byte  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 04:13:30 +0000    22923 byte  dist/inputmask/inputmask.date.extensions.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 04:13:30 +0000      511 byte  dist/inputmask/inputmask.dependencyLib.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 04:13:30 +0000     3469 byte  dist/inputmask/inputmask.extensions.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 04:13:30 +0000   112245 byte  dist/inputmask/inputmask.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 04:13:30 +0000    27911 byte  dist/inputmask/inputmask.numeric.extensions.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 04:13:30 +0000     3835 byte  dist/inputmask/inputmask.phone.extensions.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 04:13:30 +0000     7900 byte  dist/inputmask/inputmask.regex.extensions.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 04:13:30 +0000     2618 byte  dist/inputmask/jquery.inputmask.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 04:13:30 +0000   177620 byte  dist/jquery.inputmask.bundle.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 04:13:30 +0000     1099 byte  extra/bindings/inputmask.binding.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 04:13:30 +0000      895 byte  extra/css/inputmask.css</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 04:13:30 +0000     5842 byte  extra/dependencyLibs/inputmask.dependencyLib.jqli\</tspan>
-<tspan x="10" y="282">te.js</tspan>
-<tspan x="10" y="298"> 16.  2017-04-07 04:13:30 +0000      327 byte  extra/dependencyLibs/inputmask.dependencyLib.jque\</tspan>
-<tspan x="10" y="314">ry.js</tspan>
-<tspan x="10" y="330"> 17.  2017-04-07 04:13:30 +0000    12468 byte  extra/dependencyLibs/inputmask.dependencyLib.js</tspan>
-<tspan x="10" y="346"> 18.  2017-04-07 04:13:30 +0000     4573 byte  extra/phone-codes/phone-be.js</tspan>
-<tspan x="10" y="362"> 19.  2017-04-07 04:13:30 +0000    16179 byte  extra/phone-codes/phone-nl.js</tspan>
-<tspan x="10" y="378"> 20.  2017-04-07 04:13:30 +0000   405394 byte  extra/phone-codes/phone-ru.js</tspan>
-<tspan x="10" y="394"> 21.  2017-04-07 04:13:30 +0000    28723 byte  extra/phone-codes/phone-uk.js</tspan>
-<tspan x="10" y="410"> 22.  2017-04-07 04:13:30 +0000    40650 byte  extra/phone-codes/phone.js</tspan>
-<tspan x="10" y="426"> 23.  2017-04-07 04:13:30 +0000      438 byte  index.js</tspan>
-<tspan x="10" y="442"> 24.  2017-04-07 04:13:30 +0000     3423 byte  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 04:05:48 +0000   931324 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 04:05:48 +0000    17929 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 04:05:48 +0000     1064 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 04:05:48 +0000    33241 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 04:05:48 +0000    22923 bytes  dist/inputmask/inputmask.date.extensions.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 04:05:48 +0000      511 bytes  dist/inputmask/inputmask.dependencyLib.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 04:05:48 +0000     3469 bytes  dist/inputmask/inputmask.extensions.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 04:05:48 +0000   112245 bytes  dist/inputmask/inputmask.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 04:05:48 +0000    27911 bytes  dist/inputmask/inputmask.numeric.extensions.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 04:05:48 +0000     3835 bytes  dist/inputmask/inputmask.phone.extensions.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 04:05:48 +0000     7900 bytes  dist/inputmask/inputmask.regex.extensions.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 04:05:48 +0000     2618 bytes  dist/inputmask/jquery.inputmask.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 04:05:48 +0000   177620 bytes  dist/jquery.inputmask.bundle.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 04:05:48 +0000     1099 bytes  extra/bindings/inputmask.binding.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 04:05:48 +0000      895 bytes  extra/css/inputmask.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 04:05:48 +0000     5842 bytes  extra/dependencyLibs/inputmask.dependencyLib.jql\</tspan>
+<tspan x="10" y="282">ite.js</tspan>
+<tspan x="10" y="298"> 16.  2017-04-19 04:05:48 +0000      327 bytes  extra/dependencyLibs/inputmask.dependencyLib.jqu\</tspan>
+<tspan x="10" y="314">ery.js</tspan>
+<tspan x="10" y="330"> 17.  2017-04-19 04:05:48 +0000    12468 bytes  extra/dependencyLibs/inputmask.dependencyLib.js</tspan>
+<tspan x="10" y="346"> 18.  2017-04-19 04:05:48 +0000     4573 bytes  extra/phone-codes/phone-be.js</tspan>
+<tspan x="10" y="362"> 19.  2017-04-19 04:05:48 +0000    16179 bytes  extra/phone-codes/phone-nl.js</tspan>
+<tspan x="10" y="378"> 20.  2017-04-19 04:05:48 +0000   405394 bytes  extra/phone-codes/phone-ru.js</tspan>
+<tspan x="10" y="394"> 21.  2017-04-19 04:05:48 +0000    28723 bytes  extra/phone-codes/phone-uk.js</tspan>
+<tspan x="10" y="410"> 22.  2017-04-19 04:05:48 +0000    40650 bytes  extra/phone-codes/phone.js</tspan>
+<tspan x="10" y="426"> 23.  2017-04-19 04:05:48 +0000      438 bytes  index.js</tspan>
+<tspan x="10" y="442"> 24.  2017-04-19 04:05:48 +0000     3470 bytes  package.json</tspan>
 </text>
 </svg>
